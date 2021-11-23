@@ -1,3 +1,5 @@
 Ruby is a JIT
 
+add 1 to all the section number to match with the course
+
 do sections 6, 7, 8, 9, 21 
