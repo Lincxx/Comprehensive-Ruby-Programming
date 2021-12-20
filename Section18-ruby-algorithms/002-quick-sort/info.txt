@@ -1,0 +1,4 @@
+Preforms the best
+https://en.wikipedia.org/wiki/Quicksort
+https://en.wikipedia.org/wiki/Quicksort#/media/File:Quicksort-diagram.svg
+*Ruby uses quick sort
