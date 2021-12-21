@@ -23,3 +23,4 @@ author = Author.new
 author.coding_details("Cal Newton")
 author.fiction_details("Jim Butcher")
 author.history_details("Tim Tam")
+p author.respond_to?(:coding_details)
